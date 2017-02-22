@@ -11,4 +11,9 @@
         <members>Lead</members>
         <name>AssignmentRules</name>
     </types>
+    <types>
+        <members>Case.Product__c</members>
+        <members>Case.SLAViolation__c</members>
+        <name>CustomField</name>
+    </types>
 </Package>
